@@ -1,6 +1,7 @@
 
 ---
 title: "EuroPython 2020~2023 총정리"
+date: 2025-05-11 00:00:00 +0900
 search: false
 categories:
   - EuroPython
