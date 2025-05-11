@@ -8,15 +8,6 @@ categories:
 last_modified_at: 2025-05-11T08:00:00-05:00
 ---
 
-이 글은 다음과 같은 YAML Front Matter를 가지고 있기 때문에 검색 인덱스에 표시되지 않습니다:
-
-```yaml
-search: false
-````
-
-**참고:** `search: false`는 Lunr를 검색 제공자로 사용할 때만 게시글 제외 기능이 작동합니다.
-{: .notice--info}
-
 ---
 
 ## EuroPython 2020
