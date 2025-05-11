@@ -188,9 +188,6 @@ kramdown:
 
 # Collections
 collections:
-  posts:
-    output: true
-    permalink: /:categories/:title/
   docs:
     output: true
     permalink: /:collection/:path/
